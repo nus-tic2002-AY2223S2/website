@@ -54,7 +54,7 @@
   "intrasiteLinkValidation": {
     "enabled": false
   },
-  "enableSearch": true,
+  "enableSearch": false,
   "headingIndexingLevel": 5,
   "plugins": ["filterTags", "algolia", "codeBlockCopyButtons"],
   "pluginsContext": {
@@ -66,7 +66,7 @@
       "appId": "3DU4XTBX4T",
       "indexName": "nus-tic-cs",
       "searchParameters": {
-        "facetFilters": [["site:nus-tic2002-ay2223s1.github.io"], ["tags:admin", "tags:se-book-adapted", "tags:schedule"]]
+        "facetFilters": [["site:nus-tic2002-ay2223s2.github.io"], ["tags:admin", "tags:se-book-adapted", "tags:schedule"]]
       }
     }
   },
