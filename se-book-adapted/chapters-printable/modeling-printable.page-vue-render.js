@@ -101,6 +101,6 @@ with(this){return _c('div',[_c('h2',{attrs:{"id":"modeling-behaviors"}},[_c('spa
 with(this){return _c('p',[_c('strong',[_v("Sequence diagrams model the interactions between various entities in a system, in a specific scenario.")]),_v(" Modelling such scenarios is useful, for example, to verify the design of the internal interactions is able to provide the expected outcomes.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.1.0")]),_v(", generated on Wed, 8 Mar 2023, 20:40:50 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.1.0")]),_v(", generated on Wed, 15 Mar 2023, 18:28:05 GMT+8]")])])])}
 }];
   
